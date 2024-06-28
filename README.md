@@ -4,4 +4,4 @@ This project was created to examine the factor analysis of customer satisfaction
 
 Performed data preparation and Exploratory Data Analysis based on Nike and Adidas product data, built machine learning models using Decision Tree and Random Forest classifiers.
 
-The Customer Satisfaction Factor Analysis Report is provided in Indonesian language.
+Customer Satisfaction Factor Analysis Report is provided in Indonesian language.
